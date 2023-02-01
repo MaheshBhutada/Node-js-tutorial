@@ -8,4 +8,4 @@ process - info about environment where the program is executed.
 */
 setInterval(()=>{
     console.log("Hello world");
-},1000)
+},2000)
