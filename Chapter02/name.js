@@ -1,7 +1,7 @@
 // from here we share the variable to other module.
 
 // share
-const person1 = "Mahesh";
+const person1 = "Mahesh Bhutada";
 const person2 = "Aayush";
 
 // local

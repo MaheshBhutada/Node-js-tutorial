@@ -1,5 +1,5 @@
 // Modules.
-// here we get the data from name.js file.
+// here we get the data from name.js files.
 
 const {person1,person2} = require('./name');
 const sayHi = require('./function');
