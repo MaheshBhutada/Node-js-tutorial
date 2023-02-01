@@ -7,5 +7,5 @@ process - info about environment where the program is executed.
 
 */
 setInterval(()=>{
-    console.log("heloo world");
-})
+    console.log("Hello world");
+},1000)
