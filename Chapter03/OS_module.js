@@ -9,11 +9,11 @@ console.log(`The system Uptime is ${os.uptime()} second`)
 
 // some info about current operating system.
 
-const curr = {
+const currt = {
     name : os.type(),
     release : os.release(),
     totalMemory : os.totalmem(),
     freeMemory : os.freemem(),
 }
 
-console.log(curr);
+console.log(currt);
