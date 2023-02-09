@@ -1,0 +1,1 @@
+This Is write file: ${result} ${finial_result}
