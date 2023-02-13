@@ -18,4 +18,4 @@ let start = async () => {
     }
 }
 
-start();
+start(); 
